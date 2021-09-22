@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Lassalle Cedric",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortanza/portfolioWild.git"
+  },
+  "author": "Fortanza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortanza/portfolioWild/issues"
+  },
+  "homepage": "https://github.com/fortanza/portfolioWild#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "autoprefixer": "^7.1.4",
+    "concat": "^1.0.3",
+    "npm-run-all": "^4.1.1",
+    "postcss-cli": "^4.1.1"
+  }
+}
